@@ -1,0 +1,10 @@
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\obj\Debug\netcoreapp2.0\BlackJack4.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\obj\Debug\netcoreapp2.0\BlackJack4.AssemblyInfoInputs.cache
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\obj\Debug\netcoreapp2.0\BlackJack4.AssemblyInfo.cs
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\bin\Debug\netcoreapp2.0\BlackJack4.deps.json
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\bin\Debug\netcoreapp2.0\BlackJack4.runtimeconfig.json
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\bin\Debug\netcoreapp2.0\BlackJack4.runtimeconfig.dev.json
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\bin\Debug\netcoreapp2.0\BlackJack4.dll
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\bin\Debug\netcoreapp2.0\BlackJack4.pdb
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\obj\Debug\netcoreapp2.0\BlackJack4.dll
+C:\Users\Anuitex-15\Documents\Visual Studio 2017\Projects\BlackJack4\BlackJack4\obj\Debug\netcoreapp2.0\BlackJack4.pdb
